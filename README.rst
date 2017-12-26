@@ -18,8 +18,6 @@ chatkit-server-python
      :alt: Updates
 
 
-A Python Port of https://github.com/pusher/chatkit-server-ruby
-
 
 * Free software: MIT license
 * Documentation: https://chatkit-server-python.readthedocs.io.
